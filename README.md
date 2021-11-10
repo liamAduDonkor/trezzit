@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @trezzit
-- 👀 I’m interested in ai, robotics and engineering
-- 🌱 I’m currently learning less
-- 💞️ I’m looking to collaborate on anything in interests
+- 👋 Hi, I’m @liam
+- 👀 I’m interested in front-end development and scripting
+- 🌱 I’m currently scripting languages
+- 💞️ I’m looking to collaborate on front-end development and scripting
 - 📫 How to reach me. email: trezzy.donkor@gmail.com
 ;
 <!---
