@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liam
-- 👀 I’m interested in front-end development and scripting
+- 👀 I’m interested in frontend development and scripting
 - 🌱 I’m currently scripting languages
 - 💞️ I’m looking to collaborate on front-end development and scripting
 - 📫 How to reach me. email: trezzy.donkor@gmail.com
