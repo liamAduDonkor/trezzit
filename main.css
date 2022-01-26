@@ -1,0 +1,167 @@
+body{
+font: 15px/2 Arial, Helvetica, sans-serif;
+background:url(../img/bg.png) center;
+margin-bottom: 0;
+
+}
+ body h1{
+   text-transform: uppercase;
+ }
+ button{
+   color: white;
+   background-color:#4a1d4a;
+   min-height: 30px;
+
+ }
+/* global*/
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  text-decoration: none;
+  
+}
+/*Header*/
+
+header{
+background:black;
+min-height: 50px;
+border-right:blueviolet 3px solid;
+border-left:blueviolet 2px solid ;
+padding :0;
+}
+header a{
+  text-decoration: none;
+  color: #ffffff
+}
+
+header ul {
+  float:right;
+  display: inline;
+  text-decoration: none;
+  color: white;
+font-size: 16px;
+text-transform: uppercase;
+text-align: center;
+}
+header li{
+  float: left;
+  display: inline;
+  padding: 10px;
+  text-align: center;
+}
+header #comp {
+  float: left;
+}
+
+header a:hover{
+  color:purple;
+ font-weight:bolder ;
+
+}
+header li:hover{
+  background-color: #ffffff;
+  color: #4a1d4a;
+}
+header h1 a {
+  float: left;
+  padding:0 10px 0 10px;
+
+  margin: 0;
+
+}
+#comp {
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 100%;
+}
+header h1 a:hover{
+  font-weight: normal;
+}
+
+
+/*slideshow*/
+#slideshow .container{
+  padding: 0;
+ 
+}
+
+
+#slideshow .container{
+  
+  background-position: 100%;
+  text-align: center;
+}
+
+#slideshow .container{
+  min-height: 300px;
+}
+
+
+
+
+/*subscription*/
+#newsletter{
+background-color:#b1999d;
+min-height: 70px;
+
+}
+#newsletter h2{
+  float: left;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+#newsletter .container{
+  max-height: 20px;
+}
+
+#newsletter input[type="email"]{
+  padding: 5px;
+  height: 30px;
+  width: 300px;
+
+}
+section #newsletter{
+  height: 300px;
+}
+
+
+section form{
+  float: right;
+  padding: 25px ;
+}
+
+/*Brands*/
+ #brands img{
+  width: 4%;
+  float: left;
+  margin: 5px 20px 5px 20px;;
+}
+
+
+#brands {
+  background-color: #ffffff;
+  min-height: 10px;
+}
+
+
+
+/*footer*/
+
+.footer{
+  color: white;
+  background-color:#4a1d4a;
+  min-height: 50px;
+  padding:0;
+}
+
+section .footer p{
+  text-align: left;
+  padding: 10px;
+  border: 0;
+ margin-top: 0;
+}
+
