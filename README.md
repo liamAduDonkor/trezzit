@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @liam
 - 👀 I’m interested in frontend development and scripting
-- 🌱 I’m currently scripting languages
-- 💞️ I’m looking to collaborate on front-end development and scripting
-- 📫 How to reach me. email: trezzy.donkor@gmail.com
+- 🌱 I’m currently mostly doing frontend with html,css and javascript
+- 💞️ I’m looking to collaborate on frontend development and scripting
+- 📫 How to reach me. email: williamadudonkor@gmail.com
 ;
 <!---
 trezzit/trezzit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
